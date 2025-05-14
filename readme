@@ -1,0 +1,21 @@
+my-admin-panel/
+├── public/
+├── src/
+│   ├── api/
+│   │   ├── customerApi.js
+│   │   └── serviceProviderApi.js
+│   ├── components/
+│   ├── pages/
+│   │   ├── Customers.jsx
+│   │   └── ServiceProviders.jsx
+│   ├── redux/
+│   │   ├── store.js
+│   │   ├── customerSlice.js
+│   │   └── serviceProviderSlice.js
+│   ├── utils/
+│   │   └── axios.js
+│   ├── App.jsx
+│   └── main.jsx
+├── .env
+├── package.json
+└── vite.config.js
